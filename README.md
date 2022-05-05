@@ -1,8 +1,5 @@
 ## Olá!
 
-- 🌱 CSS, HTML e JS
-- 😄 Ela/dela
-- ⚡ Sou formada em Direito.
 
 <div align="left">
   <a href="https://github.com/rayssark">
